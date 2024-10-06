@@ -210,9 +210,9 @@ As we are in a **“DevOps”** course, your “Ops” personality expects that 
 
 * [Test Driven Development](http://martinfowler.com/bliki/TestDrivenDevelopment.html)
 
-* [curl man page](https://curl.se/docs/manpage.html)
+* [curl Man Page](https://curl.se/docs/manpage.html)
 
-* [pgrep(1) Linux man page](https://linux.die.net/man/1/pgrep)
+* [pgrep(1) Linux Man Page](https://linux.die.net/man/1/pgrep)
 
 * [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
 
@@ -222,17 +222,17 @@ As we are in a **“DevOps”** course, your “Ops” personality expects that 
 
 * [Go - io package - WriteString](https://go.dev/pkg/io/#WriteString)
 
-* [The blank identifier in Golang](https://golangdocs.com/blank-identifier-in-golang)
+* [The Blank Identifier in Golang](https://golangdocs.com/blank-identifier-in-golang)
 
-* [Error handling and Go](https://blog.golang.org/error-handling-and-go)
+* [Error Handling and Go](https://blog.golang.org/error-handling-and-go)
 
 * [Automatic Prerequisites](https://www.gnu.org/software/make/manual/html_node/Automatic-Prerequisites.html)
 
-* [nstalling Python Modules](https://docs.python.org/3/installing/index.html)
+* [Installing Python Modules](https://docs.python.org/3/installing/index.html)
 
 * [Download Node.js](https://nodejs.org/en/download/)
 
-* [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/)
+* [Downloading and Installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/)
 
 * [W3C Validator](https://github.com/hs-hq/W3C-Validator)
 
