@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-![DevOps.png](README-image/DevOps.png)
+![Validation.png](README-image/validation.png)
 
 </div>
 
