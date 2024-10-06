@@ -43,12 +43,14 @@
 
 <div align="center">
 
-**`Introduction to DevOps: automate everything to focus on what really matters`** project introduces the fundamental concepts of configuration management and automation using `Hugo`, a static site generator.
+**`Introduction to DevOps: automate everything to focus on what really matters`** module introduces the fundamental concepts of `DevOps` with an emphasis on automation.
 <br>
-The folder contains initial configurations for content structure, theming, and asset management, which are the basis for creating and managing websites in a `DevOps` environment.
+It uses `Hugo`, a static site generator, to create and deploy websites with minimal manual intervention.
+<br>
+The tasks focus on automating workflows through Makefiles, configuration management, and content generation.
 <br>
 <br>
-This project has been created by **[Holberton School](https://www.holbertonschool.com/about-holberton)** to enable every student to understand how automation works in the deployment and configuration of websites.
+This project has been created by **[Holberton School](https://www.holbertonschool.com/about-holberton)** to enable every student to understand how **DevOps workflows**, **testing practices**, **CI/CD**, and **containerization** work.
 
 </div>
 
