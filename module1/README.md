@@ -135,7 +135,7 @@ It focuses on why automation is useful and helps speeding a development lifecycl
 
 <br>
 
-- `Git` with the command line (and also a graphical interface)
+- `Git` with the command line (and also a graphical interface):
 
     - Retrieving or creating a repository  
     - Manipulating changes locally with Git’s 3 steps process (workspace, staging, history)

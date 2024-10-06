@@ -131,7 +131,7 @@ The following elements are required In addition to the previous module (**“Mod
 
 <br>
 
-- What a compiled language is (`C`/`C#`/`Golang`/`Rust`/etc.)
+- What a compiled language is (`C`/`C#`/`Golang`/`Rust`/etc.):
 
     - Generation process from source to executable binary
     - Basic types: `string`, `integer`, `boolean`, `maps`, `arrays`
